@@ -5,7 +5,7 @@
   "homepage": "https://grey4uk.github.io/filmoteka/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /MovieLibrary/"
+    "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
